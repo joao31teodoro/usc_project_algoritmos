@@ -1,2 +1,2 @@
 # usc_project_algoritmos
-Códigos desenvolvidos para facul Unisantos. Na matéria de Projetos de Algoritmos
+Códigos desenvolvidos para matéria de Projetos de Algoritmos - Unisantos (Sistemas de Informações)
